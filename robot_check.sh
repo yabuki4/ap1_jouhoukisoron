@@ -1,2 +1,3 @@
 #!/bin/bash
-echo "AMR check"
+echo "robot checked"
+echo "Time:$(date '+%Y-%m-%d %H:%M:%S') \n"
